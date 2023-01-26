@@ -1,3 +1,5 @@
-h1 {
-  color: red;
+.base {
+  background: url(/media/bg.png);
+  height: 900px;
+  background-position: center;
 }
