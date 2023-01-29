@@ -6,7 +6,7 @@
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding-right: 140px;
   overflow: hidden;
 }
 li {
@@ -63,4 +63,25 @@ p {
 }
 .photo {
   background: #1e1e1e;
+}
+.container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+footer {
+  background: #282323;
+  height: 100px;
+}
+i,
+h4 {
+  color: #ffffff;
+}
+h4 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+}
+i {
+  padding: 20px 10px;
 }
